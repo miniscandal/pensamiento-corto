@@ -6,6 +6,8 @@ Desing
 
 ☆ Concepto de tiempo de ejecución o runtime
 
+☆ Investigación en la resolución de problemas
+
 
 
 
@@ -22,3 +24,5 @@ It is not published
 
 
 ☆ Saber investigar entes de preguntar anecdota de la prepa con mi profesor al pedir apoyo para mi tarea
+
+☆ Presentar un dibujo, hablar de que la ia dibuja por mi pero aun quiero dibujar yo
